@@ -1,0 +1,10 @@
+DELETE    /posts?post_id=0
+PATCH     /posts?post=post
+POST      /posts
+GET       /posts
+GET       /posts?author_id=0
+
+PATCH     /users
+POST      /users
+GET       /users
+GET       /users?username=username

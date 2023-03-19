@@ -1,0 +1,16 @@
+.DS_Store
+._DS_Store
+*.DS_Store
+*._DS_Store
+
+.localized
+._localized
+*.localized
+*_.localized
+
+__pycache__/
+
+venv
+env
+
+.env
